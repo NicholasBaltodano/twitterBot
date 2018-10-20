@@ -1,9 +1,3 @@
-# Javascript
-This will hold a number of projects that primarily use Javascript
-
-<b>Practice Room </b>
-</br>
-This folder will hold a variety of files that I use to mess around and learn/try new things. This will not hold any specific project but rather many bits of different projects.
 
 <b> Twitter Bot </b>
 </br>
